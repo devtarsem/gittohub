@@ -2,7 +2,7 @@
 #include<vector>
 using namespace std;
 
-
+#include<string>
 
 #include<algorithm>
 int main(){
