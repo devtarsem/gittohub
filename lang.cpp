@@ -2,6 +2,7 @@
 #include<vector>
 using namespace std;
 #include<Math.h>
+#include<ios>
 
 #include<string>
 
